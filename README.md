@@ -2,7 +2,7 @@
 
 ## Projects
 
-### 1. Real Estate Sales Performance Dashboard (Excel)
+### 1. Real Estate Sales Performance Dashboard (Excel + Power BI)
 - Dataset: 500 giao dịch, 6 sales rep, 4 khu vực
 - Tools: Pivot Table, XLOOKUP, Conditional Formatting, Slicer
 - KPIs: Win Rate 45%, Top region HCM 117B VND
