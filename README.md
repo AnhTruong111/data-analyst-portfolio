@@ -13,4 +13,4 @@
 - KPIs: GM% 44.4%, Sell-Through 75.5%, Return Rate 4.6%
 
 ## Contact
-📧 ttanh92tcv@gmail.com<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/931ebe82-7112-494a-999e-d2ab679500c6" />
+📧 ttanh92tcv@gmail.com
